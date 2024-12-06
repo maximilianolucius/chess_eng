@@ -35,7 +35,7 @@
 
 #define MAX_AB_DEPTH        256
 #define TOTAL_MAX_DEPTH     512
-#define MAX_TT_SIZE         266666 // 2666666
+#define MAX_TT_SIZE         126666 // 266666 // 2666666
 
 #define HASH_FLAG_EXACT     0
 #define HASH_FLAG_ALPHA     1
